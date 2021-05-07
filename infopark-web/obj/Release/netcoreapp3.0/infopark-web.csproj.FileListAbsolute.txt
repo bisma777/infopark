@@ -1,0 +1,150 @@
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\appsettings.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.exe
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.deps.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.runtimeconfig.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.runtimeconfig.dev.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.dll
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.pdb
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.Views.dll
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.Views.pdb
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.csprojAssemblyReference.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.AssemblyInfoInputs.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.AssemblyInfo.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorAssemblyInfo.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorAssemblyInfo.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.TagHelpers.input.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.TagHelpers.output.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorCoreGenerate.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorTargetAssemblyInfo.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorTargetAssemblyInfo.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.Views.pdb
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\staticwebassets\infopark-web.StaticWebAssets.Manifest.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\staticwebassets\infopark-web.StaticWebAssets.xml
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.dll
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.pdb
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.genruntimeconfig.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.csproj.CopyComplete
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\about.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\contact.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course-details.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\courses.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\appsettings.Development.json
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\appsettings.json
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.exe
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.deps.json
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.runtimeconfig.json
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.runtimeconfig.dev.json
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.dll
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.pdb
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.Views.dll
+E:\WorkSpace\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.Views.pdb
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.csprojAssemblyReference.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.AssemblyInfoInputs.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.AssemblyInfo.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.csproj.CoreCompileInputs.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorAssemblyInfo.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorAssemblyInfo.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.TagHelpers.input.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.TagHelpers.output.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorCoreGenerate.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\about.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\contact.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\courses.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorTargetAssemblyInfo.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorTargetAssemblyInfo.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.Views.pdb
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\staticwebassets\infopark-web.StaticWebAssets.Manifest.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\staticwebassets\infopark-web.StaticWebAssets.xml
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.dll
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.pdb
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.genruntimeconfig.cache
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.csproj.CopyComplete
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\applyonline.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\privacypolicy.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\applyonline.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\events.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\whychooseus.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\privacypolicy.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\termsofservices.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\faq.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\appsettings.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.exe
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.deps.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.runtimeconfig.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.runtimeconfig.dev.json
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.dll
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.pdb
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.Views.dll
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\bin\Release\netcoreapp3.0\infopark-web.Views.pdb
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.AssemblyInfoInputs.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.AssemblyInfo.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.MvcApplicationPartsAssemblyInfo.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorAssemblyInfo.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorAssemblyInfo.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.TagHelpers.input.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.TagHelpers.output.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorCoreGenerate.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\about.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\applyonline.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\contact.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\courses.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\faq.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\privacypolicy.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorTargetAssemblyInfo.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.RazorTargetAssemblyInfo.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.Views.pdb
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\staticwebassets\infopark-web.StaticWebAssets.Manifest.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\staticwebassets\infopark-web.StaticWebAssets.xml
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.dll
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.pdb
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.genruntimeconfig.cache
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\infopark-web.csproj.CopyComplete
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\project-training.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\project-training.cshtml.g.cs
+D:\WorkSpace\Work\Bit Buckket\infopark-web\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\androiddevelopment.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\androiddevelopment.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\tally.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\webdevelopmet.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\basicComputerCourse.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\courseoncomputerconcepts.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\microsoftoffice.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\hardwarenetworking.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\cprograming.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\cplusprogramming.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\visualbasic.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\oracle.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\javase.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\desktoppublication.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\systemmangement.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\softwaretechnology.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\csharp.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\aspnet.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\vbnet.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\pagemaker.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\photoshop.cshtml.g.cs
+E:\WorkSpace\infopark-web\infopark-web\obj\Release\netcoreapp3.0\Razor\Pages\course\coraldraw.cshtml.g.cs

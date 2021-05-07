@@ -1,0 +1,107 @@
+﻿@page "/contact"
+@{
+    ViewData["Title"] = "list";
+    Layout = "~/pages/Shared/_Layout.cshtml";
+}
+
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs" data-aos="fade-in">
+        <div class="container">
+
+            <ol>
+                <li><a href="/index">Home</a></li>
+                <li>Contact</li>
+            </ol>
+            <h2>Contact</h2>
+
+        </div>
+    </div><!-- End Breadcrumbs --><!-- End Breadcrumbs -->
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+        <div class="container cent" data-aos="fade-up">
+            @*<div class=" row col-lg-12">*@
+
+            <div class="row">
+                <div class="col-lg-4 mt-4 mb-4">
+                    <div class="info-box">
+                        <i class="bx bx-map"></i>
+                        <h3>Our Address</h3>
+                        <p>2nd floor,sofi complex, sekidafar chowk, Waniyar, Safakadal, Srinagar, Jammu and Kashmir 190002</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="info-box mt-4 mb-4">
+                        <i class="bx bx-envelope"></i>
+                        <h3>Email Us</h3>
+                        <p><a href="mailto:info@infoparkit.in"> info@infoparkit.in</a></p>
+                        <p><a href="mailto:sales@infoparkit.in"> sales@infoparkit.in</a></p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="info-box mt-4 mb-4">
+                        <i class="bx bx-phone-call"></i>
+                        <h3>Call Us</h3>
+                        <p><a href="tel:0194 242 7282">0194-242-7282</a></p>
+                        <p><a href="tel:+91-9596-504045"> +91-95965-04045</a></p>
+                    </div>
+                </div>
+            </div>
+            @*</div>*@
+        </div>
+        <h3 class=" text-center card-title mr-auto" style="color:#5fcf80">VIEW ON MAP</h3>
+
+        <div data-aos="fade-up">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.995919707517!2d74.78964331454793!3d34.09524498059431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e1855003e3883d%3A0x279878b64872ed8e!2sInfopark%20Computer%20Education!5e0!3m2!1sen!2sin!4v1604511443810!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
+        <div class=" row bg-contact100" style="background-image: url('assets/img/bg-01.jpg');" data-aos="fade-up">
+            <div class="container-contact100">
+                <div class="wrap-contact100">
+
+                    <div class="contact100-pic js-tilt" data-tilt>
+                        <img src="~/assets/img/img-01.png" alt="IMG">
+
+                    </div>
+
+
+                    <form class="contact100-form validate-form">
+                        <span class="contact100-form-title">
+                            Get in touch
+                        </span>
+
+                        <div class="wrap-input100 validate-input" data-validate="Name is required">
+                            <input class="input100" type="text" name="name" placeholder="Name">
+                            <span class="focus-input100"></span>
+                            <span class="symbol-input100">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </span>
+                        </div>
+
+                        <div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
+                            <input class="input100" type="text" name="email" placeholder="Email">
+                            <span class="focus-input100"></span>
+                            <span class="symbol-input100">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                            </span>
+                        </div>
+
+                        <div class="wrap-input100 validate-input" data-validate="Message is required">
+                            <textarea class="input100" name="message" placeholder="Message"></textarea>
+                            <span class="focus-input100"></span>
+                        </div>
+
+                        <div class="container-contact100-form-btn">
+                            <button class="contact100-form-btn">
+                                Send
+                            </button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </section><!-- End Contact Section -->
+
+</main><!-- End #main -->

@@ -1,0 +1,158 @@
+﻿@page "/basiccomputercourse"
+
+@{
+    ViewData["Title"] = "list";
+    Layout = "~/pages/Shared/_Layout.cshtml";
+}
+
+<main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs" data-aos="fade-in">
+        <div class="container">
+
+            <ol>
+                <li><a href="/index">Home</a></li>
+                <li><a href="/courses">Courses</a></li>
+                <li>Course Details</li>
+            </ol>
+            <h2>Basic Computer Course</h2>
+
+        </div>
+    </div><!-- End Breadcrumbs -->
+    <!-- ======= Cource Details Section ======= -->
+    <section id="course-details" class="course-details">
+        <div class="container" data-aos="fade-up">
+
+            <div class="row">
+                <div class="col-lg-8">
+                    <section id="courses" class="courses pt-0">
+                        <div class="col-lg-12 col-md-6 d-flex align-items-stretch">
+                            <div class="course-item">
+                                <img src="~/courses/bcc.webp" class="img-fluid" style="height:250px" alt="...">
+                                <div class="course-content">
+
+                                    <h3><a href="course-details.html">Basic Computer Course</a></h3>
+                                    <p>
+                                        The programme can equip a person to use the computers in day-to-day life for professional and personal use.
+                                        The objective of the course is to impart basic
+                                        level computer appreciation programme with more emphasis on hands on training
+                                    </p>
+                                </div>
+                            </div>
+                        </div> <!-- End Course Item-->
+
+                    </section>
+                </div>
+                <div class="col-lg-4">
+
+                    <div class="course-info d-flex justify-content-between align-items-center">
+                        <h5>Course category</h5>
+                        <p>--</p>
+                    </div>
+                    <div class="course-info d-flex justify-content-between align-items-center">
+                        <h5>Basic Computer Course</h5>
+                        <p>Basic Computer Course</p>
+                    </div>
+                    <div class="course-info d-flex justify-content-between align-items-center">
+                        <h5>Course Fee</h5>
+                        <p>--</p>
+                    </div>
+                    <div class="course-info d-flex justify-content-between align-items-center">
+                        <h5>Syallbus</h5>
+                        <a href="~/syllabus/20190531_BCC_Revision.pdf" download><i class="icofont-download"> Download</i></a>
+                    </div>
+                    <div class="text-center p-4 float-lg-right">
+                        <a href="/applyonline" style="background-color:#5fcf80" class="btn btn-round apply-btn">Apply Now</a>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End Cource Details Section -->
+    <!-- ======= Cource Details Tabs Section ======= -->
+    <section id="cource-details-tabs" class="cource-details-tabs">
+        <div class="container" data-aos="fade-up">
+
+            <div class="row">
+                <div class="col-lg-3">
+                    <ul class="nav nav-tabs flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active show" data-toggle="tab" href="#tab-1">Overview</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#tab-2">Fee Structure</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#tab-3">Minimum qualifications</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-9 mt-4 mt-lg-0">
+                    <div class="tab-content">
+                        <div class="tab-pane active show" id="tab-1">
+                            <div class="row">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Basic Computer Course</h3>
+                                    <p class="font-italic">The programme can equip a person to use the computers in day-to-day life for professional and personal use. The objective of the course is to impart basic level computer appreciation programme with more emphasis on hands on training </p>
+                                    <p> Being a modern-day kid you must have used, seen, or read about computers. This is because they are an integral part of our everyday existence. Be it school, banks, shops, railway stations, hospital or your own home, computers are present everywhere, making our work easier and faster for us.</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="~/courses/bcc.webp" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-2">
+                            <div class="row">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Fee Structure</h3>
+                                    <table class="table table-responsive table-hover table-striped  ">
+                                        <tr>
+                                            <td>Registration Fee</td>
+                                            <td>Rs --</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Tution Fee</td>
+                                            <td>Rs --</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Exam Fee</td>
+                                            <td>--</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Total</td>
+                                            <td>Rs --</td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="~/courses/bcc.webp" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-3">
+                            <div class="row">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Minimum qualifications</h3>
+                                    <table class="table table-responsive table-hover table-striped  ">
+                                        <tr>
+
+                                            <td>10th</td>
+
+                                        </tr>
+                                    </table>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="~/courses/bcc.webp" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End Cource Details Tabs Section -->
+
+</main><!-- End #main -->

@@ -1,0 +1,91 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>infopark_web</RootNamespace>
+    <UserSecretsId>2ea8850a-a44a-4b31-8f58-dfa19a27f6b1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Pages\Shared\_Layout.cshtml" />
+    <None Include="Pages\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\assets\vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\assets\vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\assets\vendor\bootstrap\js\bootstrap.js.map" />
+    <None Include="wwwroot\assets\vendor\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\assets\vendor\bootstrap\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\assets\vendor\jquery\jquery.min.js" />
+    <None Include="wwwroot\assets\vendor\jquery\jquery.min.map" />
+    <None Include="wwwroot\assets\vendor\owl.carousel\LICENSE" />
+    <None Include="wwwroot\assets\vendor\owl.carousel\owl.carousel.js" />
+    <None Include="wwwroot\assets\vendor\owl.carousel\owl.carousel.min.js" />
+    <None Include="wwwroot\assets\vendor\owl.carousel\README.md" />
+    <None Include="wwwroot\assets\vendor\select2\select2.js" />
+    <None Include="wwwroot\assets\vendor\select2\select2.min.js" />
+    <None Include="wwwroot\assets\vendor\tilt\tilt.jquery.min.js" />
+    <None Include="wwwroot\assets\vendor\venobox\venobox.js" />
+    <None Include="wwwroot\assets\vendor\venobox\venobox.min.js" />
+    <None Include="wwwroot\assets\js\site.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\assets\ajax-loader.gif">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\assets\owl.carousel.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\assets\owl.carousel.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\assets\owl.theme.default.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\assets\owl.theme.default.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\assets\owl.theme.green.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\assets\owl.theme.green.min.css">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\assets\owl.video.play.png">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\LICENSE">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\owl.carousel.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\owl.carousel.min.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\assets\vendor\owl.carousel\README.md">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

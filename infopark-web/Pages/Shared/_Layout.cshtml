@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+
+    @*<title>@ViewBag.Title</title>*@
+    <title>InfoPark</title>
+    <meta content="" name="descriptison">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="~/assets/img/ii.ico" rel="icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- CSS Files -->
+    <link href="~/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="~/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="~/assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="~/assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <!--  Main CSS File -->
+    <link href="~/assets/css/style.css" rel="stylesheet">
+    <!--for contact page-->
+    <link rel="stylesheet" type="text/css" href="~/assets/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/assets/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/assets/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/assets/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link href="~/assets/css/main.css" rel="stylesheet" />
+    <link href="~/assets/css/site.css" rel="stylesheet" />
+
+</head>
+<body>
+
+    <div>
+        <!-- ======= Header ======= -->
+        <header id="header" class="fixed-top">
+            <div class="container d-flex align-items-center">
+
+                @*<h1 class="logo mr-auto"><a href="/index">InfoPark</a></h1>*@
+                <!-- Uncomment below if you prefer to use an image logo -->
+                <a href="/index" class="logo mr-auto"><img src="~/assets/img/logo.png" alt="" class="img-fluid"></a>
+
+                <nav class="nav-menu d-none d-lg-block">
+                    <ul>
+                        <li class="active"><a href="/index">Home</a></li>
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/courses">Courses</a></li>
+                        <li><a href="/contact">Contact</a></li>
+
+                    </ul>
+                </nav><!-- .nav-menu -->
+
+                <a href="/applyonline" class="get-started-btn text-center">Apply Online</a>
+
+            </div>
+
+            <div class="icon-bar">
+
+                <a href="https://www.facebook.com/sharer/sharer.php?kid_directed_site=0&sdk=joey&u=http%3A%2F%2Finfoparkit.in%2F&display=popup&ref=plugin&src=share_button" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+                <a href="https://twitter.com/intent/tweet?text=Certificate.Digital%20-%20Capricorn%20Identity%20Services%20Pvt.%20Ltd.%20-%20Licensed%20Certifying%20Authority.&url=https%3A%2F%2Fwww.certificate.digital%2F" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Ftitle%3DCertificate.Digital%2520-%2520Capricorn%2520Identity%2520Services%2520Pvt.%2520Ltd.%2520-%2520Licensed%2520Certifying%2520Authority.%26url%3Dhttps%253A%252F%252Fwww.certificate.digital%252F" target="_blank" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            </div>
+        </header><!-- End Header -->
+        <!-- ======= Hero Section ======= -->
+        @RenderBody()
+        <!-- ======= Footer ======= -->
+        <footer id="footer">
+
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 footer-contact contact">
+                            <h3 class="logo mr-auto"><a href="/index">INFOPARK</a></h3>
+                            <div class="info" style="background-color:#f9faf9">
+                                <div class="address">
+                                    <i class="icofont-google-map"></i>
+                                    <p>sekidafar chowk, Jammu and Kashmir 190002</p>
+                                </div>
+                                <div class="email">
+                                    <i class="icofont-envelope"></i>
+                                    <p><a href="mailto:info@infoparkit.in"> info@infoparkit.in</a></p>
+                                </div>
+                                <div class="phone">
+                                    <i class="icofont-phone"></i>
+                                    <p><a href="tel:+91-9596-504045"> +91-98585-04045</a></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-6 footer-links">
+                            <h4>Useful Links</h4>
+                            <ul>
+                                <li><i class="bx bx-chevron-right"></i> <a href="/index">Home</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="/about">About us</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="https://infoparksrinagar.blogspot.com/" target="_blank">Blogs</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="/faq">FAQ</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="/privacypolicy">Privacy policy</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-3 col-md-6 footer-links">
+                            <h4>Our Services</h4>
+                            <ul>
+                                <li><i class="bx bx-chevron-right"></i> <a href="http://smartclassesedu.in/" target="_blank">Smart Classes</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="/project-training">Project Training</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="#">NIELIT Certified Courses</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="#">Networking and Hardware</a></li>
+                                <li><i class="bx bx-chevron-right"></i> <a href="#">Tally ERP 9</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-4 col-md-6 footer-newsletter">
+                         
+                                <h4>Pay Using</h4>
+                               
+                                    <img src="~/assets/img/PaymentCards.png" class="img-fluid" alt="payment" />
+                            
+                            <h4>Join Our Newsletter</h4>
+                            <form>
+                                <input type="email" name="email"><input type="submit" value="Subscribe">
+                            </form>
+                        </div>
+                            <div class="social-links text-center text-md-right pt-3 pt-md-0">
+                                <a href="https://www.facebook.com/infoparksekidafar" style="background-color: rgba(0, 0, 0, 0.81)" target="_blank" class="facebook"><i style="color:#0e8ef2;" class="bx bxl-facebook"></i></a>
+                                <a href="https://www.instagram.com/infoparkcomputereducation/" style="background-color: rgba(0, 0, 0, 0.81)" target="_blank" class="instagram"><i style="color:#f77930" class="bx bxl-instagram"></i></a>
+                                <a href="https://t.me/infoparkcomputers" style="background-color: rgba(0, 0, 0, 0.81)" target="_blank" class="telegram"><i style="color:#2ca4db" class="bx bxl-telegram"></i></a>
+                                <a href="https://www.youtube.com/channel/UCjnOOU5TpnDx_ZQoj9Nsyag" style="background-color: rgba(0, 0, 0, 0.81)" target="_blank" class="instagram"><i style="color:#ff0000" class="bx bxl-youtube"></i></a>
+                                <a href="https://join.skype.com/invite/XQg2eGeOxn7k" style="background-color: rgba(0, 0, 0, 0.81)" target="_blank" class="instagram"><i style="color:#2ca4db" class="bx bxl-skype"></i></a>
+                                <a href="https://www.linkedin.com/in/infopark-computers-7428501bb" style="background-color: rgba(0, 0, 0, 0.81)" target="_blank" class="instagram">
+                                    <i style="color:#0077b8" class="bx bxl-linkedin"></i>
+                                </a><a href="https://twitter.com/infoparkcomput1" style="background-color: rgba(0, 0, 0, 0.81)" target="_blank" class="instagram"><i style="color:#1da1f2" class="bx bxl-twitter"></i></a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container d-md-flex py-4">
+
+                <div class="mr-md-auto text-center text-md-left">
+                    <div class="copyright">
+                        &copy; Copyright <strong><span>InfoPark Computer Education</span></strong>. All Rights Reserved | Version 1.0.1
+                    </div>
+                </div>
+                <div class="credits">
+
+                    Developed by <a>Bisma Nazir</a>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer -->
+
+    </div>
+    <div id="whatsapp"><a href="https://wa.me/message/FIQO3FFXXHPGJ1" target="_blank" title="Start chat with our expert on whatsapp" style="font-size:38px"><i class="bx bxl-whatsapp"></i></a></div>
+
+    <div class="back-to-top" id="myBtn" style="display: flex;"><span class="symbol-btn-back-to-top"><i class="bx bx-up-arrow-alt" aria-hidden="true"></i></span></div>
+
+    @*<a href="#" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>*@
+
+    <div id="preloader"></div>
+    @*<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>*@<!--  JS Files For Contact Page -->
+    <script src="~/assets/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/assets/bootstrap/js/popper.js"></script>
+    <script src="~/assets/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/assets/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/assets/tilt/tilt.jquery.min.js"></script>
+    <!--  JS Files -->
+    <script src="~/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="~/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="~/assets/vendor/php-email-form/validate.js"></script>
+    <script src="~/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+    <script src="~/assets/vendor/counterup/counterup.min.js"></script>
+    <script src="~/assets/vendor/owl.carousel/owl.carousel.js"></script>
+    <script src="~/assets/vendor/aos/aos.js"></script>
+    <script src="~/assets/vendor/venobox/venobox.min.js"></script>
+    <script src="~/assets/vendor/typed.js/typed.min.js"></script>
+    
+    <!-- Main JS File -->
+    <script src="~/assets/js/main.js"></script>
+
+    <!-- try JS File -->
+
+
+</body>
+</html>
